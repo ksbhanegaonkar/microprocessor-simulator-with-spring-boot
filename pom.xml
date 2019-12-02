@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>mavenreactjsspringboot</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>mavenreactjsspringboot</name>
+	<artifactId>MicroprocessorSimulator</artifactId>
+	<version>1.0.0</version>
+	<name>MicroprocessorSimulator</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
